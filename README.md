@@ -1,6 +1,6 @@
 # img-mixer
 
-##Как запустить?
+## Как запустить?
 
 Установить pipenv (pip install pipenv)
 
